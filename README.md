@@ -1,3 +1,7 @@
+<!-- repo-status -->
+> **Status: POC** one-off experiment, not maintained. Reviewed 2026-10-25.
+<!-- /repo-status -->
+
 # Auth0 JavaScript Samples
 
 This repository holds the quickstart samples using [auth0-spa-js](https://github.com/auth0/auth0-spa-js).
